@@ -7,11 +7,12 @@
 
 ## Profesores
 * Ivan Mauricio Amaya Contreras
-* Blanca Rosa Ruiz Hernández
+* Blanca Rosa Ruiz Hernandez
 * Félix Ricardo Botello Urrutia
 * Edgar Covantes Osuna
 * Felipe Castillo Rendón
 * Hugo Terashima Marín
+* Christian Carlos Mendoza Buenrostro
 
 
 ### Carpetas en este repositorio:
