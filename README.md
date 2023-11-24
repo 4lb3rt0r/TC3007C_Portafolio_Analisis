@@ -47,6 +47,12 @@ A continuación se muestra una lista de los archivos en sus versiones finales qu
 			* **Archivo README: [final/Cloud Computing/README.md](/final/Cloud%20Computing/README.md)**
 			* **Actividad Diseño de Cloud: [final/Cloud Computing/Diseño de Cloud.pdf](/final/Cloud%20Computing/DisenoCloud_Equipo2.pdf)**
 
+* *Módulo: [Natural Language Processing](/final/NLP/)*
+	* **Evidencia NLP:**
+		* *Carpeta [NLP](/final/NLP/)*
+			* **Archivo README: [final/NLP/README.md](/final/NLP/README.md)**
+			* **Documento PDF de Aplicación Web Speech-to-Summary con uso de API: [final/NLP/NLP_A00831719_Alberto_Horacio_Orozco_Ramos.pdf](/final/NLP/NLP_A00831719_Alberto_Horacio_Orozco_Ramos.pdf)**
+
 ## **Archivos para revisión (NO ES ENTREGA FINAL)**:
 A continuación se muestra una lista de los archivos que se deben verificar para calificar cada subcompetencia: 
 
