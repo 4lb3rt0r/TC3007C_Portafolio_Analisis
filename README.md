@@ -42,10 +42,9 @@ A continuación se muestra una lista de los archivos en sus versiones finales qu
 			* **Actividad Instalación de Spark en AWS: [final/Big Data/Instalación de Spark en AWS.pdf](/final/Big%20Data/Instalación%20de%20Spark%20en%20AWS.pdf)**
 
 * *Módulo: [Cloud Computing](/final/Cloud%20Computing/)*
-	* **Actividades de Big Data:**
+	* **Actividades de Cloud Computing:**
 		* *Carpeta [Cloud Computing](/final/Cloud%20Computing/)*
 			* **Archivo README: [final/Cloud Computing/README.md](/final/Cloud%20Computing/README.md)**
-			* **Actividad Cloud Migration : [final/Cloud Computing/CloudMigration_Equipo2.pdf](/final/Cloud%20Computing/CloudMigration_Equipo2.pdf)**
 			* **Actividad Diseño de Cloud: [final/Cloud Computing/Diseño de Cloud.pdf](/final/Cloud%20Computing/DisenoCloud_Equipo2.pdf)**
 
 ## **Archivos para revisión (NO ES ENTREGA FINAL)**:
