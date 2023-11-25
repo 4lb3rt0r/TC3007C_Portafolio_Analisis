@@ -53,6 +53,12 @@ A continuación se muestra una lista de los archivos en sus versiones finales qu
 			* **Archivo README: [final/NLP/README.md](/final/NLP/README.md)**
 			* **Documento PDF de Aplicación Web Speech-to-Summary con uso de API: [final/NLP/NLP_A00831719_Alberto_Horacio_Orozco_Ramos.pdf](/final/NLP/NLP_A00831719_Alberto_Horacio_Orozco_Ramos.pdf)**
 
+* *Módulo: [Deep Learning](/final/Deep%20Learning/)*
+	* **Evidencia Deep Learning:**
+		* *Carpeta [Deep Learning](/final/Deep%20Learning/)*
+			* **Archivo README: [final/Deep Learning/README.md](/final/Deep%20Learning/README.md)**
+			* **Archivo MP4 de Momento de Retroalimentación: Reto Modelo y Refinamiento: [Liga del Video](https://drive.google.com/file/d/1Wvb5kKMCxaJiQR5YR-dnyMMNe8RsRWy0/view?usp=drive_link)**
+
 ## **Archivos para revisión (NO ES ENTREGA FINAL)**:
 A continuación se muestra una lista de los archivos que se deben verificar para calificar cada subcompetencia: 
 
